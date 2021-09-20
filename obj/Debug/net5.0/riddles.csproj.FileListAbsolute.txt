@@ -1,0 +1,15 @@
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.csproj.AssemblyReference.cache
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.AssemblyInfoInputs.cache
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.AssemblyInfo.cs
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.csproj.CoreCompileInputs.cache
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/riddles.deps.json
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/riddles.runtimeconfig.json
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/riddles.runtimeconfig.dev.json
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/riddles.dll
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/ref/riddles.dll
+/Users/chynnalew/Desktop/week8/riddles/bin/Debug/net5.0/riddles.pdb
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.dll
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/ref/riddles.dll
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.pdb
+/Users/chynnalew/Desktop/week8/riddles/obj/Debug/net5.0/riddles.genruntimeconfig.cache
